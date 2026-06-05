@@ -1,0 +1,5 @@
+id: rvmvectorwall
+name: RVM VectorWall
+version: 1.0.0
+main: rvm.vector.wall._rvm00000
+authors: [RVM Groups (Forgotten Private Coalition)]
