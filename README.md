@@ -18,12 +18,12 @@
 
 ## Features
 
-- ✅ **One-time tokens** — each token is used only once
-- ✅ **Automatic deletion** — token is removed immediately after successful login
-- ✅ **Logging** — detailed logs for each successful or failed attempt
-- ✅ **Simple** — no client-side mods required
-- ✅ **HSQLDB** — embedded database, no separate server required
-- ✅ **Velocity 3.5.0+** — fully compatible with latest versions
+-  **One-time tokens** — each token is used only once
+-  **Automatic deletion** — token is removed immediately after successful login
+-  **Logging** — detailed logs for each successful or failed attempt
+-  **Simple** — no client-side mods required
+-  **HSQLDB** — embedded database, no separate server required
+-  **Velocity 3.5.0+** — fully compatible with latest versions
 
 ---
 
